@@ -1,9 +1,9 @@
-## What am I working on?
+## What am I working on
 * Automation tools and software for select clients
 * Membership services and websites
 
 
-## What am I working with?
+## What am I working with
 * Node.JS
 * Rust
 * Python
