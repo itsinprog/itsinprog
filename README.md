@@ -1,16 +1,14 @@
-### Hi there 👋
+## What am I working on?
+* Automation tools and software for select clients
+* Membership services and websites
 
-<!--
-**itsinprog/itsinprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What am I working with?
+* Node.JS
+* Rust
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How can you contact me
+* Email: [contact@lockpick.digital](mailto:contact@lockpick.digital)
+* Discord: [Lockpick#0001](https://discord.com/users/350064476029976577/)
+* Twitter: [@utocheckout](https://www.twitter.com/utocheckout)
