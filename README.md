@@ -1,12 +1,13 @@
 ## What am I working on
-* Automation tools and software for select clients
+* Automation tools and software
 * Membership services and websites
-
+* Fun stuff on the blockchain
 
 ## What am I working with
 * Node.JS
 * Rust
 * Python
+* Solidity
 
 ## How can you contact me
 * Email: [contact@lockpick.digital](mailto:contact@lockpick.digital)
